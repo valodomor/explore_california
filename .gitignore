@@ -7,4 +7,8 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+
+*.xml
+.idea/*.xml
+
 # question: would log/archive/access.log be ignored? No.
