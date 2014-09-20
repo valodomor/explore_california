@@ -9,6 +9,6 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 *.xml
-.idea/*.xml
+.idea/workspace.xml
 
 # question: would log/archive/access.log be ignored? No.
